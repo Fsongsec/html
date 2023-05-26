@@ -1,0 +1,83 @@
+{
+  "RainbowBrackets.depreciation-notice": false,
+  "workbench.iconTheme": "vscode-icons",
+  "editor.inlineSuggest.enabled": true,
+  "files.autoSave": "onFocusChange",
+  "editor.fontSize": 16,
+  "editor.lineHeight": 20,
+  "editor.fontWeight": "normal",
+  "editor.fontFamily": "sarasa，Menlo",
+  "editor.fontLigatures": true,
+  "editor.wordWrap": "on",
+  "editor.wordWrapColumn": 80,
+  "editor.tabSize": 2,
+  "editor.cursorStyle": "block-outline",
+  "C_Cpp.autocompleteAddParentheses": true,
+  "C_Cpp.inlayHints.autoDeclarationTypes.enabled": true,
+  "C_Cpp.inlayHints.parameterNames.enabled": true,
+  "C_Cpp.inlayHints.autoDeclarationTypes.showOnLeft": true,
+  "C_Cpp.inlayHints.referenceOperator.showSpace": true,
+  "C_Cpp.inlayHints.referenceOperator.enabled": true,
+  "C_Cpp.clang_format_fallbackStyle": "Goole",
+  "C_Cpp.formatting": "clangFormat",
+  "C_Cpp.vcFormat.indent.gotoLabels": "leftmostColumn",
+  "C_Cpp.vcFormat.indent.preserveComments": true,
+  "C_Cpp.vcFormat.indent.preserveWithinParentheses": true,
+  "vsicons.presets.angular": true,
+  "[c]": {
+    "editor.defaultFormatter": "xaver.clang-format"
+  },
+  "files.exclude": {
+    ".vscode": true
+  },
+  "editor.formatOnSaveMode": "modificationsIfAvailable",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnType": true,
+  "diffEditor.wordWrap": "off",
+  "editor.minimap.enabled": false,
+  "editor.minimap.autohide": true,
+  "files.autoGuessEncoding": true,
+  "files.enableTrash": false,
+  "files.eol": "\n",
+  "files.trimFinalNewlines": true,
+  "files.trimTrailingWhitespace": true,
+  "workbench.commandPalette.experimental.suggestCommands": true,
+  "debug.allowBreakpointsEverywhere": true,
+  "debug.autoExpandLazyVariables": true,
+  "terminal.integrated.copyOnSelection": true,
+  "terminal.integrated.ignoreProcessNames": [
+    "zsh"
+  ],
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.defaultProfile.osx": "zsh",
+  "terminal.integrated.fontFamily": "Roboto Mono for Powerline",
+  "terminal.integrated.smoothScrolling": true,
+  "terminal.integrated.fontSize": 15,
+  "terminal.integrated.lineHeight": 0.5,
+  "github.gitProtocol": "ssh",
+  "google-translate.switchFunctionTranslation": true,
+  "code-runner.runInTerminal": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "workbench.colorTheme": "One Dark Pro Darker",
+  "terminal.integrated.cursorStyle": "line",
+  "github.copilot.enable": {
+    "*": false,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false,
+    "python": true
+  },
+  "jupyter.allowUnauthorizedRemoteConnection": true,
+  "google-translate.firstLanguage": "en",
+  "clang.cxxflags": [
+    "-std=c++17"
+  ],
+  "clang.cflags": [
+    "-std=c11"
+  ],
+  "code-runner.executorMap": {
+    "cpp": "g++ $fileName -std=c++17 -o $fileNameWithoutExt.out && ./$fileNameWithoutExt.out"
+  },
+  "vsicons.dontShowNewVersionMessage": true
+}

@@ -4,6 +4,8 @@
   },
   "python.formatting.provider": "none",
   "files.associations": {
-    "new": "cpp"
+    "new": "cpp",
+    "iosfwd": "cpp",
+    "vector": "cpp"
   }
 }
