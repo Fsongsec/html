@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>伪类选择器示例</title>
+  <style>
+    /* 选择第一个 p 元素 */
+    p:first-child {
+      color: red;
+    }
+
+    /* 选择最后一个 p 元素 */
+    p:last-child {
+      color: blue;
+    }
+
+    /* 选择第二个 p 元素 */
+    p:nth-child(2) {
+      color: green;
+    }
+
+    /* 选择所有偶数 p 元素 */
+    p:nth-child(even) {
+      color: purple;
+    }
+
+    /* 选择所有奇数 p 元素 */
+    p:nth-child(odd) {
+      color: orange;
+    }
+
+    /* 选择鼠标悬停在 p 元素上的状态 */
+    p:hover {
+      background-color: yellow;
+    }
+
+    /* 选择被点击的 p 元素 */
+    p:active {
+      background-color: gray;
+    }
+
+    /* 选择被访问过的链接 */
+    a:visited {
+      color: gray;
+    }
+
+    /* 选择当前被选中的输入元素 */
+    input:focus {
+      border: 2px solid blue;
+    }
+  </style>
+</head>
+
+<body>
+  <p>这是第一个段落。</p>
+  <p>这是第二个段落。</p>
+  <p>这是第三个段落。</p>
+  <a href="#">这是一个链接。</a>
+  <input type="text" placeholder="输入框" />
+</body>
+
+</html>
