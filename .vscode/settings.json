@@ -7,5 +7,6 @@
     "new": "cpp",
     "iosfwd": "cpp",
     "vector": "cpp"
-  }
+  },
+  "livePreview.defaultPreviewPath": "/1.前端开发基础/2.CSS/6.盒子模型/1.边框.html"
 }
