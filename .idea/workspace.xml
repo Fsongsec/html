@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37d6b9e4-61e1-4a33-ace7-a8836e728c04" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/HTML.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.前端开发基础/1.HTML/1.1初识/2.快速生成骨架.html" beforeDir="false" afterPath="$PROJECT_DIR$/1.前端开发基础/1.HTML/1.1初识/2.快速生成骨架.html" afterDir="false" />
-    </list>
+    <list default="true" id="37d6b9e4-61e1-4a33-ace7-a8836e728c04" name="更改" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,6 +58,7 @@
       <workItem from="1686631876215" duration="78000" />
       <workItem from="1686635058380" duration="144000" />
       <workItem from="1686738541528" duration="31000" />
+      <workItem from="1686829203856" duration="11000" />
     </task>
     <servers />
   </component>
